@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nomade_movie/static/css/main.ca7b6bf8.chunk.css",
+    "main.js": "/nomade_movie/static/js/main.b39f4d3b.chunk.js",
+    "main.js.map": "/nomade_movie/static/js/main.b39f4d3b.chunk.js.map",
+    "runtime-main.js": "/nomade_movie/static/js/runtime-main.ff56b109.js",
+    "runtime-main.js.map": "/nomade_movie/static/js/runtime-main.ff56b109.js.map",
+    "static/js/2.8e1b050f.chunk.js": "/nomade_movie/static/js/2.8e1b050f.chunk.js",
+    "static/js/2.8e1b050f.chunk.js.map": "/nomade_movie/static/js/2.8e1b050f.chunk.js.map",
+    "index.html": "/nomade_movie/index.html",
+    "precache-manifest.346ec840f1d9ae3a06d6aa5c9f7c4dde.js": "/nomade_movie/precache-manifest.346ec840f1d9ae3a06d6aa5c9f7c4dde.js",
+    "service-worker.js": "/nomade_movie/service-worker.js",
+    "static/css/main.ca7b6bf8.chunk.css.map": "/nomade_movie/static/css/main.ca7b6bf8.chunk.css.map",
+    "static/js/2.8e1b050f.chunk.js.LICENSE.txt": "/nomade_movie/static/js/2.8e1b050f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff56b109.js",
+    "static/js/2.8e1b050f.chunk.js",
+    "static/css/main.ca7b6bf8.chunk.css",
+    "static/js/main.b39f4d3b.chunk.js"
+  ]
+}
